@@ -1,5 +1,5 @@
-# Homework2
-Repository created for Homework 2 related to VBA due on 3/20/21. 
+# VBA
+Repository created for VBA project
 
 ** ASSUMPTIONS **
 The VBA code has been built to run under the following conditions:
